@@ -15,3 +15,10 @@
   * 반복문
   * 입출력
   * 주요 라이브러리 및 순열과 조합
+  * sum(), min(), max()
+  * eval()
+  * sort()와 sorted()
+  * heapq
+  * bisect
+  * collections
+  * math
